@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2020-11-20T22:13:19-08:00</updated>
+  <updated>2020-11-28T15:20:44-08:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -33,7 +33,19 @@
     &lt;embed src=&quot;https://drive.google.com/file/d/1PXyiI06Sye30weV4qDiH7nFtC7zsh7Lt/view?usp=sharing&quot; /&gt;
         &lt;p&gt;This browser does not support PDFs. Please download the PDF to view it: &lt;a href=&quot;https://drive.google.com/file/d/1PXyiI06Sye30weV4qDiH7nFtC7zsh7Lt/view?usp=sharing&quot;&gt;Download PDF&lt;/a&gt;.&lt;/p&gt;
     &amp;lt;/embed&amp;gt;
-&lt;/object&gt;</content>
+&lt;/object&gt;
+
+&lt;h3 id=&quot;hacker-research-scholarship&quot;&gt;Hacker Research Scholarship&lt;/h3&gt;
+
+&lt;p&gt;The &lt;a href=&quot;http://www.math.wsu.edu/scholarships/HackerScholarship2020.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;research scholarship&lt;/a&gt; was my second undergraduate research opportunity at Washington State University. Dr. Asaki was curious about the properties of an algorithm they came up with at Los Alamos to improve image recovery. I was able to prove that it satisfied certain properties which classified it as a special case of a well understood algorithm.&lt;/p&gt;
+
+&lt;h3 id=&quot;valuable-experiences&quot;&gt;Valuable Experiences&lt;/h3&gt;
+
+&lt;p&gt;I was required to submit a formal research proposal and curriculum vitae (CV) to obtain approval from the department. This was a valuable experience by itself. However, the challenges involved in researching and deeply understanding the problem whilst taking five upper division classes (including two graduate courses) was immense.&lt;/p&gt;
+
+&lt;h3 id=&quot;poster-design&quot;&gt;Poster Design&lt;/h3&gt;
+
+&lt;p&gt;The final product of this research was to be a professional conference poster. I considered many options for making the poster, but settled on making it from scratch with vector graphics. I did not like any of the pre-made designs or programs. I used LaTeX to create the beautiful mathematics, Python with Matplotlib for the graphics, and Inkscape for the overall design. This workflow proved to be both efficient and effective; the result speaks for itself!&lt;/p&gt;</content>
 
       
       
@@ -79,13 +91,13 @@
 
 &lt;p&gt;The amount of work required was daunting, but in 2014 I decided to try my hand at creating my own map. I learned how to use the Source SDK which comes with the Hammer 3d editor. I learned how to create custom textures with the &lt;a href=&quot;https://developer.valvesoftware.com/wiki/Valve_Texture_Format&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;Valve Texture Format&lt;/a&gt; including bump maps and reflectivity values for rendering realistic surfaces. I used my skills as a graphic designer to recreate the wonderful artwork in game. I read civil engineering documents to get the dimensions of features like stairs, doors and parking spaces just right. I spent the entire year from January until December learning everything I needed to make my vision a reality. Diving right into the deep end of a massive project and seeing it through to the end has been one of the highlights of my life.&lt;/p&gt;
 
-&lt;h3 id=&quot;why-i-stopped&quot;&gt;Why I Stopped&lt;/h3&gt;
-
-&lt;p&gt;My decision to pursue Mathematics in university put a hold on my map creation ambitions. However, I am still in love with the art form, and I still follow other map creators like &lt;a href=&quot;https://www.youtube.com/channel/UCQau-O2C0kGJpR3_CHBTGbw&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;UEAKCrash&lt;/a&gt; whose work I greatly admire.&lt;/p&gt;
-
 &lt;h3 id=&quot;the-success&quot;&gt;The Success&lt;/h3&gt;
 
 &lt;p&gt;gm_TempestAcademy has 15,818 workshop subscribers as of today (11/17/2020) and has been showcased by popular youtubers in videos exceeding &lt;a href=&quot;https://www.youtube.com/watch?v=jha1vy4txxs&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;17 MILLION views (nswf - language)&lt;/a&gt;! I am astounded with how popular my first custom map became, and slightly embarassed due to some amateur mistakes. But I am proud of this achievement because I poured my soul into making every detail of it.&lt;/p&gt;
+
+&lt;h3 id=&quot;why-i-stopped&quot;&gt;Why I Stopped&lt;/h3&gt;
+
+&lt;p&gt;My decision to pursue Mathematics in university put a hold on my map creation ambitions. However, I am still in love with the art form, and I still follow other map creators like &lt;a href=&quot;https://www.youtube.com/channel/UCQau-O2C0kGJpR3_CHBTGbw&quot; target=&quot;_blank&quot; rel=&quot;noopener noreferrer&quot;&gt;UEAKCrash&lt;/a&gt; whose work I greatly admire.&lt;/p&gt;
 
 &lt;h3 id=&quot;proof&quot;&gt;Proof&lt;/h3&gt;
 

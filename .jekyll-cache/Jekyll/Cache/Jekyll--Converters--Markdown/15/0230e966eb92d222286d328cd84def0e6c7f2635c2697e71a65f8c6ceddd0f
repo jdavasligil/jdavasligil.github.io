@@ -1,8 +1,0 @@
-I"•<h2 id="check-it-out">Check it out</h2>
-
-<object data="https://drive.google.com/file/d/1PXyiI06Sye30weV4qDiH7nFtC7zsh7Lt/preview" type="application/pdf" width="1000px" height="1000px">
-    <embed src="http://yoursite.com/the.pdf" />
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    &lt;/embed&gt;
-</object>
-:ET

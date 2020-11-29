@@ -4,7 +4,7 @@ email: https://formspree.io/f/myybpaqz
 url: https://github.com/jdavasligil/freelancer-theme
 description: "Hi, welcome to my portfolio! This is where I will be sharing all of the cool projects I've worked on."
 keywords: "Jaedin Davasligil, Mathematics, Graphic Design, Portfolio, GitHub"
-skills: "Mathematician - Graphic Artist - World Designer"
+skills: "Mathematician - Graphic Artist - Game Designer"
 meta_author: Davasligil Jaedin
 
 # Google webmaster tools
@@ -25,8 +25,8 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
+  primary: 188abc #18bc9c #80B3FF
+  primary-rgb: "24,138,188" #"24,288,156" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
 
